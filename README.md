@@ -1,0 +1,2 @@
+# easyfq
+bypass gfw
