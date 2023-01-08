@@ -1,0 +1,1 @@
+start clash -d .\config\
