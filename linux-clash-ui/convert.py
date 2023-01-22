@@ -445,7 +445,7 @@ def save_config(path, data):
 # 程序入口
 if __name__ == '__main__':
     # 输出路径
-    output_path = './config.yaml'
+    output_path = './config/config.yaml'
     # 规则策略
     config_path = './sample.yaml'
     config_url = 'https://raw.fastgit.org/veeyoung/convert2clash/master/sample.yaml'
